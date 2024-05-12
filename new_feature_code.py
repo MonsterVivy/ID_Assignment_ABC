@@ -1,1 +1,1 @@
-print('New feature v1.0')
+print('New feature v1.1')
